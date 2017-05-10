@@ -6,4 +6,4 @@ Git manage.
 Git double.
 Git ADD.
 Git hello!
-Git branch and simple!
+Git branch and && simple!
